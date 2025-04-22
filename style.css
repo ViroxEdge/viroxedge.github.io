@@ -18,7 +18,7 @@
     .logo::before {
       content: "";
       width: 33.333rem;
-      aspect-ratio: 3 / 2; /* Keeps height proportional */
+      aspect-ratio: 3 / 2;
       display: block;
       background: center / contain no-repeat url('assets/logo.svg');
       user-select: none;
