@@ -20,7 +20,7 @@
       width: 33.333rem;
       aspect-ratio: 3 / 2; /* Keeps height proportional */
       display: block;
-      background: center / contain no-repeat url('https://raw.githubusercontent.com/ViroxEdge/viroxedge.github.io/8ff64f1c596043b854204117d42bc3085e1d2c2e/assets/logo.svg');
+      background: center / contain no-repeat url('assets/logo.svg');
       user-select: none;
       opacity: 0;
       animation: fadeInGlow 2s ease-out forwards;
